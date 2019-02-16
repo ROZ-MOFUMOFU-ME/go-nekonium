@@ -32,6 +32,7 @@ import (
 	"github.com/nekonium/go-nekonium/common/math"
 	"github.com/nekonium/go-nekonium/crypto/sha3"
 	"github.com/nekonium/go-nekonium/rlp"
+	"golang.org/x/crypto/sha3"
 )
 
 var (
